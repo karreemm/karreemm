@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Kareem Abdel Nabi</h1>
-<h3 align="center">A Bio-Medical Engineer</h3>
 
 - 📫 How to reach me **kareem.abdelnabi.22@gmail.com**
 
