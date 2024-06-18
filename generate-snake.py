@@ -20,7 +20,7 @@ def generate_snake_animation(commits):
     # Implement your logic to create the snake animation from commits
     # This is a placeholder for the actual snake animation generation logic
     animation_data = f"Generated Snake Animation with {len(commits)} commits"
-    with open('snake.svg', 'w') as f:
+    with open('dist/snake.svg', 'w') as f:
         f.write(animation_data)
 
 if __name__ == "__main__":
