@@ -73,6 +73,5 @@
 
 
 
----
 
-<img src="https://raw.githubusercontent.com/karreemm/karreemm/output/snake.svg" alt="Snake animation" />
+
