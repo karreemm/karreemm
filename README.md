@@ -1,78 +1,83 @@
-<h1 align="center">I'm Kareem Abdel Nabi</h1>
-
-<br />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+There!;I'm+Kareem+Abdel+Nabi;Software+Engineer;Frontend+Developer" alt="Typing SVG" />
+  </a>
+</h1>
 
 <div align="center">
   <a href="mailto:kareem.mahmoud03@eng-st.cu.edu.eg">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/k-abdelnabii">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo" />
   </a>
 </div>
 
-###
+<h2 align="center">💻 Technologies & Tools</h2>
 
-<br />
+<details open>
+<summary><b>🌐 Frontend Development</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,threejs,figma" />
+</div>
+</details>
 
+<details open>
+<summary><b>⚙️ Programming Languages & Tools</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,php,postgres,vscode,git,qt,postman" />
+</div>
+</details>
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karreemm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-###
-
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/karreemm/karreemm/blob/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/karreemm/karreemm/blob/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://github.com/karreemm/karreemm/blob/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </div>
 
-###
+<!-- Custom CSS styling -->
+<style>
+  /* Add custom styling for better visibility */
+  h1, h2 {
+    background: linear-gradient(to right, #FF71CE, #01CDFE);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient 5s ease infinite;
+  }
 
-<br />
-<div align="left">
-</div>
+  details {
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.05);
+  }
 
-###
+  summary {
+    cursor: pointer;
+    color: #FF71CE;
+  }
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karreemm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
-
-
-
-
----
-
-<img src="https://raw.githubusercontent.com/karreemm/karreemm/output/snake.svg" alt="Snake animation" />
+  div {
+    margin: 15px 0;
+  }
+</style>
