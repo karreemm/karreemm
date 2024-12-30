@@ -5,8 +5,11 @@
 </h1>
 
 <div align="center">
+  <a href="https://kareem-abdelnabi.vercel.app/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internetexplorer&label=&color=0D96F6&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="portfolio" />
+  </a>
   <a href="mailto:kareem.mahmoud03@eng-st.cu.edu.eg">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/k-abdelnabii">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo" />
@@ -54,5 +57,3 @@
     />
   </picture>
 </div>
-
-
