@@ -55,29 +55,4 @@
   </picture>
 </div>
 
-<!-- Custom CSS styling -->
-<style>
-  /* Add custom styling for better visibility */
-  h1, h2 {
-    background: linear-gradient(to right, #FF71CE, #01CDFE);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradient 5s ease infinite;
-  }
 
-  details {
-    margin: 20px 0;
-    padding: 10px;
-    border-radius: 8px;
-    background: rgba(255, 255, 255, 0.05);
-  }
-
-  summary {
-    cursor: pointer;
-    color: #FF71CE;
-  }
-
-  div {
-    margin: 15px 0;
-  }
-</style>
