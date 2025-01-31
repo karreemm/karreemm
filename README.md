@@ -16,21 +16,26 @@
   </a>
 </div>
 
-<h2 align="center">💻 Technologies & Tools</h2>
-
+<h2 align="center">💻 Skills</h2>
 <details open>
-<summary><b>🌐 Frontend Development</b></summary>
+<summary><b>🌐 Front-End Skills</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,threejs,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nextjs" />
 </div>
 </details>
-
 <details open>
-<summary><b>⚙️ Programming Languages & Tools</b></summary>
+<summary><b>⚙️ Programming Skills</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,php,postgres,vscode,git,qt,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,qt" />
+</div>
+</details>
+<details open>
+<summary><b>🛠️ Tools</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,blender,figma" />
 </div>
 </details>
 
