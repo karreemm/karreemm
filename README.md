@@ -65,10 +65,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karreemm&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karreemm&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
 <br />
 
 <h1 align="center">Contribution Snake</h1>
