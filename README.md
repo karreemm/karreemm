@@ -1,7 +1,7 @@
 # Hey, I'm Kareem Abdel Nabi
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;Frontend+Engineer;Problem+Solver;Creative+Coder;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;Frontend+Engineer;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -55,15 +55,6 @@
   <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 </details>
-
-<br />
-
-<h1 align="center">GitHub Stats</h1>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=karreemm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karreemm&layout=compact&langs_count=8&theme=algolia"/>
-</div>
 
 <br />
 
